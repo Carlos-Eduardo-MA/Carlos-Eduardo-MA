@@ -17,20 +17,20 @@
 
 ---
 
-## 🇧🇷 Português
+## <img src="https://flagcdn.com/24x18/br.png" /> Português
 
 <details open>
-<summary><b>🇧🇷 Clique para expandir / Click to expand</b></summary>
+<summary><b><img src="https://flagcdn.com/20x15/br.png" /> Clique para expandir / Click to expand</b></summary>
 
 ### 🚀 Sobre Mim
 
 ```javascript
 const carlos = {
   pronouns: "Ele/Dele",
-  location: "Barra Mansa, Rio de Janeiro 🇧🇷",
+  location: "Barra Mansa, Rio de Janeiro",
   currentJob: "CRM Campaign Analyst @ Pmweb",
   experience: "16+ anos em TI | 4+ anos em Desenvolvimento",
-  languages: ["Português 🇧🇷", "English 🇺🇸", "Español 🇪🇸"],
+  languages: ["Português", "English", "Español"],
   askMeAbout: ["CRM", "Marketing Cloud", "Web Dev", "Automation"],
   funFact: "Transformo café em código e dados em campanhas! ☕"
 };
@@ -57,20 +57,20 @@ const carlos = {
 
 ---
 
-## 🇺🇸 English
+## <img src="https://flagcdn.com/24x18/us.png" /> English
 
 <details>
-<summary><b>🇺🇸 Click to expand / Clique para expandir</b></summary>
+<summary><b><img src="https://flagcdn.com/20x15/us.png" /> Click to expand / Clique para expandir</b></summary>
 
 ### 🚀 About Me
 
 ```javascript
 const carlos = {
   pronouns: "He/Him",
-  location: "Barra Mansa, Rio de Janeiro 🇧🇷",
+  location: "Barra Mansa, Rio de Janeiro - Brazil",
   currentJob: "CRM Campaign Analyst @ Pmweb",
   experience: "16+ years in IT | 4+ years in Development",
-  languages: ["Portuguese 🇧🇷", "English 🇺🇸", "Spanish 🇪🇸"],
+  languages: ["Portuguese", "English", "Spanish"],
   askMeAbout: ["CRM", "Marketing Cloud", "Web Dev", "Automation"],
   funFact: "I turn coffee into code and data into campaigns! ☕"
 };
@@ -97,20 +97,20 @@ const carlos = {
 
 ---
 
-## 🇪🇸 Español
+## <img src="https://flagcdn.com/24x18/es.png" /> Español
 
 <details>
-<summary><b>🇪🇸 Haz clic para expandir / Click to expand</b></summary>
+<summary><b><img src="https://flagcdn.com/20x15/es.png" /> Haz clic para expandir / Click to expand</b></summary>
 
 ### 🚀 Sobre Mí
 
 ```javascript
 const carlos = {
   pronouns: "Él",
-  location: "Barra Mansa, Rio de Janeiro 🇧🇷",
+  location: "Barra Mansa, Rio de Janeiro - Brasil",
   currentJob: "Analista de Campañas CRM @ Pmweb",
   experience: "16+ años en TI | 4+ años en Desarrollo",
-  languages: ["Portugués 🇧🇷", "Inglés 🇺🇸", "Español 🇪🇸"],
+  languages: ["Portugués", "Inglés", "Español"],
   askMeAbout: ["CRM", "Marketing Cloud", "Desarrollo Web", "Automatización"],
   funFact: "¡Convierto café en código y datos en campañas! ☕"
 };
@@ -244,9 +244,11 @@ const carlos = {
 
 <div align="center">
 
-🇧🇷 *Estou aberto a novas oportunidades!*  
-🇺🇸 *I'm open to new opportunities!*  
-🇪🇸 *¡Estoy abierto a nuevas oportunidades!*
+<img src="https://flagcdn.com/20x15/br.png" /> *Estou aberto a novas oportunidades!*  
+<img src="https://flagcdn.com/20x15/us.png" /> *I'm open to new opportunities!*  
+<img src="https://flagcdn.com/20x15/es.png" /> *¡Estoy abierto a nuevas oportunidades!*
+
+<br/>
 
 <a href="https://www.linkedin.com/in/carloseduardomarcelino">
 <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" />
@@ -268,16 +270,19 @@ const carlos = {
 
 :
 
-Crie o arquivo `.github/workflows/snake.yml` no repositório com:
+Crie em `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake Animation
+
 on:
 schedule:
   - cron: "0 */24 * * *"
 workflow_dispatch:
+
 permissions:
 contents: write
+
 jobs:
 generate:
   runs-on: ubuntu-latest
@@ -296,4 +301,4 @@ generate:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-Boa sorte com seu portfólio! 🚀🌃 Qualquer dúvida é só chamar!
+Agora está tudo certinho! 🌃✨ Boa sorte com seu portfólio! 🚀
