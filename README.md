@@ -35,24 +35,6 @@ const carlos = {
   funFact: "Transformo café em código e dados em campanhas! ☕"
 };
 ```
-
-> 💡 Profissional de TI com **expertise comprovada** em resolução de problemas complexos, entrega de projetos de alta qualidade e automação de marketing. Proativo, detalhista e orientado a resultados.
-
-### 💼 Experiência Profissional
-
-| 📅 Período | 🏢 Empresa | 💼 Cargo |
-|-----------|-----------|---------|
-| **08/2025 - Atual** | Pmweb | Analista de Campanha CRM |
-| 12/2021 - 07/2025 | City Connect BR | Desenvolvedor Front-end |
-| 10/2021 - 12/2021 | Stefanini Brasil | Analista de Suporte Técnico |
-| 05/2019 - 09/2021 | Atos | Analista de Suporte Técnico |
-| 03/2016 - 12/2017 | Receita Federal | Estagiário |
-
-### 🎓 Formação Acadêmica
-- 🎓 **Pós-graduação** em Gestão em TI - iBRA (2020-2021)
-- 🎓 **Bacharel** em Sistemas de Informação - UniFOA (2013-2017)
-- 🎓 **Técnico** em Informática - Instituto de Cultura Técnica (2007)
-
 </details>
 
 ---
