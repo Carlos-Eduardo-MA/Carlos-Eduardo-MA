@@ -186,25 +186,6 @@ const carlos = {
 
 ---
 
-## 🎨 Tokyo Night Color Palette
-
-<div align="center">
-
-> 💜 **Tema atual:** Tokyo Night - inspirado nas luzes neon da capital japonesa
-
-| 🎨 Cor | 🔖 Hex | 📝 Uso |
-|--------|--------|--------|
-| 🌃 **Background** | `#1A1B27` | Fundo principal escuro |
-| 💙 **Blue** | `#7AA2F7` | Destaques e títulos |
-| 💜 **Purple** | `#BB9AF7` | Acentos e ícones |
-| 🌸 **Pink/Red** | `#F7768E` | Avisos e highlights |
-| 💚 **Green** | `#9ECE6A` | Sucesso e crescimento |
-| 🌙 **Foreground** | `#A9B1D6` | Textos principais |
-| ⚡ **Yellow** | `#E0AF68` | Avisos importantes |
-| 🌊 **Cyan** | `#7DCFFF` | Links e interações |
-
-</div>
-
 ---
 
 ## 💼 Featured Projects | Projetos em Destaque
