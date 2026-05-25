@@ -266,39 +266,3 @@ const carlos = {
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-:
-
-Crie em `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-schedule:
-  - cron: "0 */24 * * *"
-workflow_dispatch:
-
-permissions:
-contents: write
-
-jobs:
-generate:
-  runs-on: ubuntu-latest
-  steps:
-    - uses: Platane/snk@v3
-      id: snake-gif
-      with:
-        github_user_name: SEU_USUARIO
-        outputs: |
-          dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=7AA2F7&color_dots=1A1B27,7AA2F7,BB9AF7,F7768E,9ECE6A
-    - uses: crazy-max/ghaction-github-pages@v3.1.0
-      with:
-        target_branch: output
-        build_dir: dist
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Agora está tudo certinho! 🌃✨ Boa sorte com seu portfólio! 🚀
