@@ -1,231 +1,74 @@
-# 👋 Olá, eu sou o Carlos Eduardo Marcelino!
-
 <div align="center">
-
-### 🌍 Selecione seu idioma | Select your language | Selecciona tu idioma
-
-[](#-português)
-[](#-english)
-[](#-español)
-
-[](https://git.io/typing-svg)
-
-[](https://www.linkedin.com/in/carloseduardomarcelino)
-[](mailto:carloseduardo.ma89@gmail.com)
-
-</div>
-
----
-
-## <img src="https://flagcdn.com/24x18/br.png" /> Português
-
-<details open>
-<summary><b><img src="https://flagcdn.com/20x15/br.png" /> Clique para expandir / Click to expand</b></summary>
-
-### 🚀 Sobre Mim
-
-```javascript
-const carlos = {
-  pronouns: "Ele/Dele",
-  location: "Barra Mansa, Rio de Janeiro",
-  currentJob: "CRM Campaign Analyst @ Pmweb",
-  experience: "16+ anos em TI | 4+ anos em Desenvolvimento",
-  languages: ["Português", "English", "Español"],
-  askMeAbout: ["CRM", "Marketing Cloud", "Web Dev", "Automation"],
-  funFact: "Transformo café em código e dados em campanhas! ☕"
-};
-```
-</details>
-
----
-
-## <img src="https://flagcdn.com/24x18/us.png" /> English
-
-<details>
-<summary><b><img src="https://flagcdn.com/20x15/us.png" /> Click to expand / Clique para expandir</b></summary>
-
-### 🚀 About Me
-
-```javascript
-const carlos = {
-  pronouns: "He/Him",
-  location: "Barra Mansa, Rio de Janeiro - Brazil",
-  currentJob: "CRM Campaign Analyst @ Pmweb",
-  experience: "16+ years in IT | 4+ years in Development",
-  languages: ["Portuguese", "English", "Spanish"],
-  askMeAbout: ["CRM", "Marketing Cloud", "Web Dev", "Automation"],
-  funFact: "I turn coffee into code and data into campaigns! ☕"
-};
-```
-
-> 💡 IT professional with **proven expertise** in solving complex problems, delivering high-quality projects, and marketing automation. Proactive, detail-oriented, and results-driven.
-
-### 💼 Professional Experience
-
-| 📅 Period | 🏢 Company | 💼 Role |
-|----------|-----------|--------|
-| **08/2025 - Present** | Pmweb | CRM Campaign Analyst |
-| 12/2021 - 07/2025 | City Connect BR | Front-end Developer |
-| 10/2021 - 12/2021 | Stefanini Brasil | Technical Support Analyst |
-| 05/2019 - 09/2021 | Atos | Technical Support Analyst |
-| 03/2016 - 12/2017 | Federal Revenue | Intern |
-
-### 🎓 Education
-- 🎓 **Postgraduate** in IT Management - iBRA (2020-2021)
-- 🎓 **Bachelor's** in Information Systems - UniFOA (2013-2017)
-- 🎓 **Technical Degree** in IT - Instituto de Cultura Técnica (2007)
-
-</details>
-
----
-
-## <img src="https://flagcdn.com/24x18/es.png" /> Español
-
-<details>
-<summary><b><img src="https://flagcdn.com/20x15/es.png" /> Haz clic para expandir / Click to expand</b></summary>
-
-### 🚀 Sobre Mí
-
-```javascript
-const carlos = {
-  pronouns: "Él",
-  location: "Barra Mansa, Rio de Janeiro - Brasil",
-  currentJob: "Analista de Campañas CRM @ Pmweb",
-  experience: "16+ años en TI | 4+ años en Desarrollo",
-  languages: ["Portugués", "Inglés", "Español"],
-  askMeAbout: ["CRM", "Marketing Cloud", "Desarrollo Web", "Automatización"],
-  funFact: "¡Convierto café en código y datos en campañas! ☕"
-};
-```
-
-> 💡 Profesional de TI con **experiencia comprobada** en resolución de problemas complejos, entrega de proyectos de alta calidad y automatización de marketing. Proactivo, detallista y orientado a resultados.
-
-### 💼 Experiencia Profesional
-
-| 📅 Período | 🏢 Empresa | 💼 Cargo |
-|-----------|-----------|---------|
-| **08/2025 - Actual** | Pmweb | Analista de Campañas CRM |
-| 12/2021 - 07/2025 | City Connect BR | Desarrollador Front-end |
-| 10/2021 - 12/2021 | Stefanini Brasil | Analista de Soporte Técnico |
-| 05/2019 - 09/2021 | Atos | Analista de Soporte Técnico |
-| 03/2016 - 12/2017 | Hacienda Federal | Pasante |
-
-### 🎓 Formación Académica
-- 🎓 **Postgrado** en Gestión de TI - iBRA (2020-2021)
-- 🎓 **Licenciatura** en Sistemas de Información - UniFOA (2013-2017)
-- 🎓 **Técnico** en Informática - Instituto de Cultura Técnica (2007)
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-### 💌 CRM & Marketing Automation
-<div align="center">
-
-<img src="https://img.shields.io/badge/Salesforce_Marketing_Cloud-7AA2F7?style=for-the-badge&logo=salesforce&logoColor=white&labelColor=1A1B27" />
-<img src="https://img.shields.io/badge/Braze-F7768E?style=for-the-badge&logo=braze&logoColor=white&labelColor=1A1B27" />
-<img src="https://img.shields.io/badge/Oracle_Responsys-BB9AF7?style=for-the-badge&logo=oracle&logoColor=white&labelColor=1A1B27" />
-
-</div>
-
-### 💻 Frontend Development
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,sass&theme=dark" />
-
-</div>
-
-### ⚙️ Backend Development
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,php,express,mysql,postgres,mongodb&theme=dark" />
-
-</div>
-
-### 🧰 Tools & Others
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,linux,windows&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&text_color=A9B1D6"/>
-
+  <img src="./header.png" alt="Cadu.exe — Front-End Developer, React, TypeScript e Salesforce" width="100%" />
 </div>
 
 <div align="center">
-
-[](https://git.io/streak-stats)
-
+  <h1>Olá, eu sou o Cadu 👋</h1>
+  <h3>Desenvolvedor Front-End • React • TypeScript • Salesforce</h3>
+  <p>
+    Transformo ideias em experiências digitais rápidas, responsivas e bem construídas.<br/>
+    I turn ideas into fast, responsive, and thoughtfully built digital experiences.
+  </p>
+  <p>
+    <a href="https://github.com/Carlos-Eduardo-MA?tab=repositories">
+      <img alt="Projetos" src="https://img.shields.io/badge/Projetos-Explorar-00D9FF?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://github.com/Carlos-Eduardo-MA">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Carlos--Eduardo--MA-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </div>
 
-### 📈 Activity Graph
+01 Sobre mim | About me
+PT-BR
+Sou desenvolvedor com foco em interfaces web modernas, experiências digitais e soluções que ajudam negócios a apresentar seus serviços e conquistar clientes. Também trabalho com Salesforce Marketing Cloud e Personalization.
 
+EN
+I'm a developer focused on modern web interfaces, digital experiences, and solutions that help businesses present their services and reach customers. I also work with Salesforce Marketing Cloud and Personalization.
+- 💻 Front-end: React, TypeScript, JavaScript, HTML, CSS e Tailwind CSS
+- ⚙️ Back-end & APIs: Node.js, NestJS e APIs REST
+- ☁️ CRM & Marketing: Salesforce Marketing Cloud e Personalization
+- 🗄️ Dados: SQL, PostgreSQL e MySQL
+- 🧰 Workflow: Git, Docker e CI/CD
+- 🚀 Freelance: landing pages, sites institucionais e interfaces responsivas
+02 Serviços | Services
+Português	English
+Landing pages focadas em clareza, desempenho e conversão.	Landing pages focused on clarity, performance, and conversion.
+Sites institucionais responsivos para apresentar sua marca e seus serviços.	Business websites to showcase your brand and services.
+Interfaces React com componentes reutilizáveis e código organizado.	React interfaces with reusable components and maintainable code.
+Melhorias e manutenção em projetos front-end existentes.	Front-end improvements and maintenance for existing projects.
+
+
+03 Projetos em destaque | Featured projects
+Personal Trainer
+Landing page para profissional de educação física, com foco na apresentação dos serviços e na jornada de contato.
+
+Ver repositório →
+Mais projetos | More projects
+Explore outros repositórios e experimentos:
+
+Ver todos os repositórios →
+Dica: fixe até seis repositórios no perfil e priorize projetos com demonstração online, README claro e imagens reais do resultado.
+
+04 Tecnologias | Tech stack
 <div align="center">
-
-[](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img alt="React" src="https://img.shields.io/badge/React-0B0F19?style=for-the-badge&logo=react&logoColor=00D9FF" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0F19?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B0F19?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-0B0F19?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B0F19?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-0B0F19?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0B0F19?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-0B0F19?style=for-the-badge&logo=git&logoColor=F05032" />
 </div>
 
-### 🏆 GitHub Trophies
+05 Vamos conversar? | Let's work together
+Tem um projeto em mente? Entre em contato pelo meu perfil do GitHub ou confira meus repositórios para conhecer meu trabalho.
 
+Have a project in mind? Reach out through my GitHub profile or explore my repositories to see my work.
 <div align="center">
-
-[](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/Carlos-Eduardo-MA">
+    <img alt="Visitar meu GitHub" src="https://img.shields.io/badge/Entre_em_contato-GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p><sub>Construído com código, café e um toque de neon. / Built with code, coffee, and a touch of neon.</sub></p>
 </div>
-
----
-
----
-
-## 💼 Featured Projects | Projetos em Destaque
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO/PROJETO1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO1&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" />
-</a>
-<a href="https://github.com/SEU_USUARIO/PROJETO2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=PROJETO2&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=7AA2F7&icon_color=BB9AF7&text_color=A9B1D6" />
-</a>
-
-</div>
-
----
-
-## 📫 Let's Connect | Vamos Conversar | Conectémonos
-
-<div align="center">
-
-<img src="https://flagcdn.com/20x15/br.png" /> *Estou aberto a novas oportunidades!*  
-<img src="https://flagcdn.com/20x15/us.png" /> *I'm open to new opportunities!*  
-<img src="https://flagcdn.com/20x15/es.png" /> *¡Estoy abierto a nuevas oportunidades!*
-
-<br/>
-
-<a href="https://www.linkedin.com/in/carloseduardomarcelino">
-<img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" />
-</a>
-<a href="mailto:carloseduardo.ma89@gmail.com">
-<img src="https://img.shields.io/badge/Email-F7768E?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" />
-</a>
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-BB9AF7?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
