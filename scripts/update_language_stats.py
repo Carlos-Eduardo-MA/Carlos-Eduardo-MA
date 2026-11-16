@@ -13,7 +13,6 @@ OUTPUT_PATH = Path(__file__).resolve().parents[1] / "assets" / "language-stats.s
 API_ROOT = "https://api.github.com"
 LANGUAGE_COLORS = ("#00f0ff", "#ff0055", "#00ff66", "#8b5cf6", "#f59e0b", "#38bdf8")
 
-
 def get_json(url):
     headers = {
         "Accept": "application/vnd.github+json",
