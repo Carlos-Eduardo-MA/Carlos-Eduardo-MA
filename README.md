@@ -37,6 +37,12 @@ Também gosto de games, RPGs, anime, ficção científica e cyberpunk.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## Linguagens nos meus repositórios
+
+![Participação das linguagens por volume de código nos repositórios públicos](assets/language-stats.svg)
+
+O gráfico considera o volume de código nos meus repositórios públicos, não meu nível de domínio. A GitHub Action atualiza os dados a cada seis horas.
+
 ## Projeto em destaque
 
 ### KADUH.DEV — Portfólio pessoal
