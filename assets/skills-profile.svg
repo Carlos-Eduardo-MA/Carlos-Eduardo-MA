@@ -12,7 +12,6 @@
   <text x="932" y="67" fill="#00ff66" font-family="Consolas,monospace" font-size="10" text-anchor="end" letter-spacing="2">PERFIL ATIVO</text>
   <path d="M28 82h904" stroke="#b7a57b" stroke-opacity=".35"/>
 
-  <text x="28" y="124" fill="#f8fafc" font-family="Arial,sans-serif" font-size="29" font-weight="800" letter-spacing=".5">CARLOS EDUARDO</text>
   <text x="28" y="147" fill="#b7a57b" font-family="Consolas,monospace" font-size="9" letter-spacing="2">CLASSE</text>
   <text x="28" y="166" fill="#00f0ff" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2">FULL STACK</text>
 
