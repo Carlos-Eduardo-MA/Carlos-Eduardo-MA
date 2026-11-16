@@ -15,27 +15,15 @@
 
 ## Sobre mim
 
-Sou Carlos Eduardo, desenvolvedor Full Stack de Resende (RJ). Trabalho com desenvolvimento de aplicações web e gosto de aprender novas tecnologias.
+Sou desenvolvedor Full Stack de Resende (RJ). Minha relação com tecnologia começou há cerca de 20 anos e, nos últimos 7, tenho me dedicado ao desenvolvimento de software. Gosto de entender como as coisas funcionam, testar ideias e transformá-las em projetos.
 
-Também gosto de games, RPGs, anime, ficção científica e cyberpunk.
+Fora do código, gosto de games, RPGs, animes, filmes e ficção científica, especialmente cyberpunk. Essas referências também influenciam meu interesse por interfaces e projetos digitais.
 
-## Habilidades
+## Skills e ferramentas
 
-**Front-end**
+![Painel de skills e ferramentas de Carlos Eduardo: JavaScript 90%, HTML/CSS 93%, Python 78%, React 86%, Node.js 84%, Tailwind 85%, MongoDB 74%, Git 88% e Docker 68%.](assets/skills-profile.svg)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Back-end, dados e ferramentas**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+Os percentuais seguem minha avaliação pessoal e os níveis configurados no meu site. **Ranks:** S (mestre), A (avançado), B (intermediário) e C (iniciante).
 
 ## Linguagens nos meus repositórios
 
