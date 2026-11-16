@@ -1,7 +1,5 @@
 <div align="center">
 
-# Carlos Eduardo
-
 ### Desenvolvedor Full Stack | React, Node.js e Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardomarcelino/)
@@ -14,7 +12,7 @@
 
 ## Skills e ferramentas
 
-![Painel de skills e ferramentas de Carlos Eduardo: JavaScript 90%, HTML/CSS 93%, Python 78%, React 86%, Node.js 84%, Tailwind 85%, MongoDB 74%, Git 88% e Docker 68%.](assets/skills-profile.svg)
+![Painel de skills e ferramentas: JavaScript 90%, HTML/CSS 93%, Python 78%, React 86%, Node.js 84%, Tailwind 85%, MongoDB 74%, Git 88% e Docker 68%.](assets/skills-profile.svg)
 
 Os percentuais seguem minha avaliação pessoal e os níveis configurados no meu site. **Ranks:** S (mestre), A (avançado), B (intermediário) e C (iniciante).
 
