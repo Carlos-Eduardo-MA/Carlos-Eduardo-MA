@@ -13,11 +13,6 @@
 
 ---
 
-## Sobre mim
-
-Sou desenvolvedor Full Stack de Resende (RJ). Minha relação com tecnologia começou há cerca de 20 anos e, nos últimos 7, tenho me dedicado ao desenvolvimento de software. Gosto de entender como as coisas funcionam, testar ideias e transformá-las em projetos.
-
-Fora do código, gosto de games, RPGs, animes, filmes e ficção científica, especialmente cyberpunk. Essas referências também influenciam meu interesse por interfaces e projetos digitais.
 
 ## Skills e ferramentas
 
