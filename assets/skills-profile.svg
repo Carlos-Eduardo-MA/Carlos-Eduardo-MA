@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="548" viewBox="0 0 960 548" role="img">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="560" viewBox="0 0 960 560" role="img">
   <title>Ficha de perfil de Carlos Eduardo com skills e ferramentas</title>
-  <rect x="1" y="1" width="958" height="546" rx="8" fill="#05070f" stroke="#00f0ff" stroke-opacity=".55"/>
+  <rect x="1" y="1" width="958" height="558" rx="8" fill="#05070f" stroke="#00f0ff" stroke-opacity=".55"/>
   <rect x="1" y="1" width="958" height="32" rx="8" fill="#0b1018"/>
   <path d="M1 33h958" stroke="#1e293b"/>
   <circle cx="19" cy="17" r="4" fill="#ff5f57"/>
@@ -17,12 +17,12 @@
   <text x="28" y="166" fill="#00f0ff" font-family="Consolas,monospace" font-size="12" font-weight="700" letter-spacing="2">FULL STACK</text>
 
   <text x="28" y="205" fill="#e5c98b" font-family="Consolas,monospace" font-size="11" letter-spacing="3">SKILLS</text>
-  <text x="932" y="205" fill="#64748b" font-family="Consolas,monospace" font-size="9" text-anchor="end" letter-spacing="2">3 SKILLS</text>
+  <text x="932" y="205" fill="#64748b" font-family="Consolas,monospace" font-size="9" text-anchor="end" letter-spacing="2">3 NÓS ATIVOS</text>
 
   <g font-family="Arial,sans-serif">
     <rect x="28" y="219" width="292" height="132" rx="3" fill="#101117" stroke="#b7a57b" stroke-opacity=".7"/>
     <rect x="44" y="235" width="39" height="39" fill="#05070f" stroke="#e5c98b" stroke-opacity=".55"/>
-    <text x="63.5" y="260" fill="#ffe6a6" font-family="Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle">JS</text>
+    <text x="63.5" y="260" fill="#ffe6a6" font-family="Consolas,monospace" font-size="12" font-weight="700" text-anchor="middle">JA</text>
     <text x="298" y="239" fill="#b7a57b" font-family="Consolas,monospace" font-size="8" text-anchor="end" letter-spacing="1">RANK</text>
     <text x="298" y="264" fill="#ffe6a6" font-family="Arial,sans-serif" font-size="24" font-weight="800" text-anchor="end">S</text>
     <text x="44" y="296" fill="#f8fafc" font-size="14" font-weight="700">JavaScript</text>
@@ -60,56 +60,81 @@
     <polygon points="721,319 726,324 721,329 716,324" fill="none" stroke="#334155"/>
   </g>
 
-  <text x="28" y="386" fill="#e5c98b" font-family="Consolas,monospace" font-size="11" letter-spacing="2">FERRAMENTAS · FRAMEWORKS</text>
-  <text x="932" y="386" fill="#64748b" font-family="Consolas,monospace" font-size="9" text-anchor="end" letter-spacing="2">6 FERRAMENTAS</text>
+  <text x="28" y="386" fill="#e5c98b" font-family="Consolas,monospace" font-size="11" letter-spacing="2">EQUIPAMENTOS · FRAMEWORKS E FERRAMENTAS</text>
+  <text x="932" y="386" fill="#64748b" font-family="Consolas,monospace" font-size="9" text-anchor="end" letter-spacing="2">6 / 6</text>
 
   <g font-family="Arial,sans-serif">
-    <rect x="28" y="400" width="292" height="60" rx="3" fill="#0c1018" stroke="#ff0055" stroke-opacity=".55"/>
-    <rect x="42" y="411" width="34" height="34" fill="#05070f" stroke="#ff0055" stroke-opacity=".5"/>
-    <text x="59" y="433" fill="#ff8bab" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">RE</text>
-    <text x="88" y="425" fill="#f8fafc" font-size="12" font-weight="700">React</text>
-    <text x="302" y="425" fill="#ff8bab" font-family="Consolas,monospace" font-size="10" text-anchor="end">86%</text>
-    <rect x="88" y="436" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="88" y="436" width="184.04" height="5" rx="2.5" fill="#ff0055"/>
-
-    <rect x="334" y="400" width="292" height="60" rx="3" fill="#0c1018" stroke="#00f0ff" stroke-opacity=".55"/>
-    <rect x="348" y="411" width="34" height="34" fill="#05070f" stroke="#00f0ff" stroke-opacity=".5"/>
-    <text x="365" y="433" fill="#8be9f5" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">NO</text>
-    <text x="394" y="425" fill="#f8fafc" font-size="12" font-weight="700">Node.js</text>
-    <text x="608" y="425" fill="#8be9f5" font-family="Consolas,monospace" font-size="10" text-anchor="end">84%</text>
-    <rect x="394" y="436" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="394" y="436" width="179.76" height="5" rx="2.5" fill="#00f0ff"/>
-
-    <rect x="640" y="400" width="292" height="60" rx="3" fill="#0c1018" stroke="#8b5cf6" stroke-opacity=".65"/>
-    <rect x="654" y="411" width="34" height="34" fill="#05070f" stroke="#8b5cf6" stroke-opacity=".55"/>
-    <text x="671" y="433" fill="#c4b5fd" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">TA</text>
-    <text x="700" y="425" fill="#f8fafc" font-size="12" font-weight="700">Tailwind</text>
-    <text x="914" y="425" fill="#c4b5fd" font-family="Consolas,monospace" font-size="10" text-anchor="end">85%</text>
-    <rect x="700" y="436" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="700" y="436" width="181.90" height="5" rx="2.5" fill="#8b5cf6"/>
-
-    <rect x="28" y="474" width="292" height="60" rx="3" fill="#0c1018" stroke="#38bdf8" stroke-opacity=".45"/>
-    <rect x="42" y="485" width="34" height="34" fill="#05070f" stroke="#38bdf8" stroke-opacity=".45"/>
-    <text x="59" y="507" fill="#7dd3fc" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">MO</text>
-    <text x="88" y="499" fill="#f8fafc" font-size="12" font-weight="700">MongoDB</text>
-    <text x="302" y="499" fill="#7dd3fc" font-family="Consolas,monospace" font-size="10" text-anchor="end">74%</text>
-    <rect x="88" y="510" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="88" y="510" width="158.36" height="5" rx="2.5" fill="#38bdf8"/>
-
-    <rect x="334" y="474" width="292" height="60" rx="3" fill="#0c1018" stroke="#f59e0b" stroke-opacity=".55"/>
-    <rect x="348" y="485" width="34" height="34" fill="#05070f" stroke="#f59e0b" stroke-opacity=".5"/>
-    <text x="365" y="507" fill="#fcd34d" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">GI</text>
-    <text x="394" y="499" fill="#f8fafc" font-size="12" font-weight="700">Git</text>
-    <text x="608" y="499" fill="#fcd34d" font-family="Consolas,monospace" font-size="10" text-anchor="end">88%</text>
-    <rect x="394" y="510" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="394" y="510" width="188.32" height="5" rx="2.5" fill="#f59e0b"/>
-
-    <rect x="640" y="474" width="292" height="60" rx="3" fill="#0c1018" stroke="#64748b" stroke-opacity=".7"/>
-    <rect x="654" y="485" width="34" height="34" fill="#05070f" stroke="#64748b" stroke-opacity=".55"/>
-    <text x="671" y="507" fill="#cbd5e1" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">DO</text>
-    <text x="700" y="499" fill="#f8fafc" font-size="12" font-weight="700">Docker</text>
-    <text x="914" y="499" fill="#cbd5e1" font-family="Consolas,monospace" font-size="10" text-anchor="end">68%</text>
-    <rect x="700" y="510" width="214" height="5" rx="2.5" fill="#1e293b"/>
-    <rect x="700" y="510" width="145.52" height="5" rx="2.5" fill="#64748b"/>
+    <g transform="translate(28 400)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#fcd34d" stroke-opacity=".65"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#fcd34d" stroke-opacity=".55"/>
+      <text x="31" y="36" fill="#fde68a" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">RE</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">React</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#fde68a" font-size="8" font-weight="700" text-anchor="end">LENDÁRIO</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#fde68a" font-family="Consolas,monospace" font-size="9" text-anchor="end">86%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="187.48" height="5" rx="2.5" fill="#fde68a"/>
+    </g>
+    <g transform="translate(334 400)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#22d3ee" stroke-opacity=".55"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#22d3ee" stroke-opacity=".5"/>
+      <text x="31" y="36" fill="#a5f3fc" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">NO</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">Node.js</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#a5f3fc" font-size="8" font-weight="700" text-anchor="end">RARO</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#a5f3fc" font-family="Consolas,monospace" font-size="9" text-anchor="end">84%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="183.12" height="5" rx="2.5" fill="#a5f3fc"/>
+    </g>
+    <g transform="translate(640 400)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#e879f9" stroke-opacity=".65"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#e879f9" stroke-opacity=".55"/>
+      <text x="31" y="36" fill="#f5d0fe" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">TA</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">Tailwind</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#f5d0fe" font-size="8" font-weight="700" text-anchor="end">ÉPICO</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#f5d0fe" font-family="Consolas,monospace" font-size="9" text-anchor="end">85%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="185.30" height="5" rx="2.5" fill="#f5d0fe"/>
+    </g>
+    <g transform="translate(28 476)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#94a3b8" stroke-opacity=".5"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#94a3b8" stroke-opacity=".45"/>
+      <text x="31" y="36" fill="#cbd5e1" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">MO</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">MongoDB</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#cbd5e1" font-size="8" font-weight="700" text-anchor="end">COMUM</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#cbd5e1" font-family="Consolas,monospace" font-size="9" text-anchor="end">74%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="161.32" height="5" rx="2.5" fill="#cbd5e1"/>
+    </g>
+    <g transform="translate(334 476)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#e879f9" stroke-opacity=".65"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#e879f9" stroke-opacity=".55"/>
+      <text x="31" y="36" fill="#f5d0fe" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">GI</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">Git</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#f5d0fe" font-size="8" font-weight="700" text-anchor="end">ÉPICO</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#f5d0fe" font-family="Consolas,monospace" font-size="9" text-anchor="end">88%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="191.84" height="5" rx="2.5" fill="#f5d0fe"/>
+    </g>
+    <g transform="translate(640 476)">
+      <rect width="292" height="68" rx="3" fill="#0c1018" stroke="#94a3b8" stroke-opacity=".5"/>
+      <rect x="14" y="14" width="34" height="34" fill="#05070f" stroke="#94a3b8" stroke-opacity=".45"/>
+      <text x="31" y="36" fill="#cbd5e1" font-family="Consolas,monospace" font-size="11" font-weight="700" text-anchor="middle">DO</text>
+      <text x="60" y="25" fill="#f8fafc" font-size="12" font-weight="700">Docker</text>
+      <text x="278" y="14" fill="#64748b" font-family="Consolas,monospace" font-size="7" text-anchor="end">RARIDADE</text>
+      <text x="278" y="27" fill="#cbd5e1" font-size="8" font-weight="700" text-anchor="end">COMUM</text>
+      <text x="60" y="45" fill="#94a3b8" font-family="Consolas,monospace" font-size="7">DOMÍNIO</text>
+      <text x="278" y="45" fill="#cbd5e1" font-family="Consolas,monospace" font-size="9" text-anchor="end">68%</text>
+      <rect x="60" y="52" width="218" height="5" rx="2.5" fill="#1e293b"/>
+      <rect x="60" y="52" width="148.24" height="5" rx="2.5" fill="#cbd5e1"/>
+    </g>
   </g>
 </svg>
