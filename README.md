@@ -14,15 +14,15 @@ Aplicações web com **React, TypeScript, Node.js e Python**
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite&theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS e Vite" />
+<a href="https://cealmeida.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite&theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS e Vite" /></a>
 
 **Back-end**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=light" alt="Node.js, Express e Python" />
+<a href="https://cealmeida.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=light" alt="Node.js, Express e Python" /></a>
 
 **Dados e ferramentas**
 
-<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,docker,cloudflare&theme=light" alt="SQLite, MongoDB, Git, GitHub, Docker e Cloudflare" />
+<a href="https://cealmeida.pages.dev/" target="_blank" rel="noopener noreferrer"><img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,docker,cloudflare&theme=light" alt="SQLite, MongoDB, Git, GitHub, Docker e Cloudflare" /></a>
 
 ### O que desenvolvo
 
