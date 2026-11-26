@@ -1,65 +1,45 @@
 <div align="center">
 
-# Carlos Eduardo Marcelino de Almeida
+## ✦ Da ideia ao deploy ✦
 
-### Desenvolvedor Full Stack
+Interfaces que fazem sentido para quem usa. Back-ends que fazem sentido para quem mantém.
 
-Desenvolvimento de aplicações web completas — da experiência no front-end à lógica de negócio, APIs e dados.
+**Front-end** &nbsp;·&nbsp; **Back-end** &nbsp;·&nbsp; **Dados** &nbsp;·&nbsp; **Deploy**
 
-[Portfólio](https://cealmeida.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/) · [E-mail](mailto:carloseduardo.ma89@gmail.com) · [WhatsApp](https://wa.me/5524981068281)
+[Conheça meu portfólio →](https://cealmeida.pages.dev/)
 
 </div>
 
 ---
 
-## Sobre
+### 🧭 Meu jeito de desenvolver
 
-Sou desenvolvedor full stack e gosto de transformar necessidades reais em produtos web claros, úteis e bem construídos. Trabalho em diferentes etapas do desenvolvimento: desenho de interfaces responsivas, implementação de funcionalidades, integração com serviços, persistência de dados e publicação.
+Gosto de entender o problema antes de escolher a tecnologia. A partir daí, conecto as partes do produto para entregar experiências completas — com atenção à usabilidade, organização do código e ao que acontece depois que a aplicação entra no ar.
 
-Tenho experiência com aplicações React e TypeScript, desenvolvimento de APIs com Node.js e Python e projetos que vão de ferramentas web a plataformas com autenticação e gestão de conteúdo. Valorizo código legível, atenção à experiência de uso e soluções adequadas ao problema.
+| 🎨 Experiência | ⚙️ Engenharia | 🚀 Entrega |
+|:--|:--|:--|
+| Interfaces responsivas e acessíveis, componentes consistentes e fluxos claros. | APIs, autenticação, integrações e persistência de dados pensadas em conjunto. | Aplicações prontas para uso, com versionamento, automação e publicação. |
 
-## Áreas de atuação
+### 🛠️ Minha caixa de ferramentas
 
-- **Front-end:** interfaces responsivas, componentes reutilizáveis e aplicações React.
-- **Back-end:** APIs REST, autenticação, integrações e processamento de dados.
-- **Aplicações completas:** conexão entre interface, regras de negócio e banco de dados.
-- **Entrega:** versionamento com Git, automação e publicação de aplicações web.
+| | |
+|:--|:--|
+| **Interface** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
+| **Servidor** | Node.js · Express · Python · APIs REST |
+| **Dados** | SQLite · MongoDB |
+| **Fluxo de trabalho** | Git · GitHub Actions · Docker · Vite · Cloudflare Pages |
 
-## Tecnologias
+### 💬 Em poucas palavras
 
-**Front-end**  
-React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
+**Do componente à API, da modelagem à publicação.**  
+Curioso por natureza, pragmático nas escolhas e sempre buscando deixar o software melhor do que encontrei.
 
-**Back-end**  
-Node.js · Express · Python · APIs REST · JWT
+---
 
-**Dados e ferramentas**  
-SQLite · MongoDB · Git · GitHub Actions · Docker · Vite · Cloudflare Pages
+<div align="center">
 
-## Projetos em destaque
+Aberto a boas conversas, oportunidades e desafios de desenvolvimento.
 
-### [Estante](https://github.com/Carlos-Eduardo-MA/estante_online)
-Biblioteca pessoal para acompanhar leituras, organizar livros por etapa e registrar avaliações e resenhas. Inclui busca de livros pela Open Library.  
-`Next.js` · `TypeScript` · `Tailwind CSS` · `SQLite`
+[Portfólio](https://cealmeida.pages.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/) &nbsp;·&nbsp; [E-mail](mailto:carloseduardo.ma89@gmail.com)
 
-### [Imagem Leve](https://github.com/Carlos-Eduardo-MA/imagem_leve)
-Aplicação de otimização de imagens com autenticação, comparação do resultado e exportação em diferentes formatos.  
-`Node.js` · `Express` · `Sharp` · `JWT`
-
-### [Diário Online](https://github.com/Carlos-Eduardo-MA/diario_online)
-Diário digital com área privada, autenticação e operações para criar, editar e remover registros.  
-`Node.js` · `Express` · `JWT` · `bcrypt`
-
-### [Meu portfólio](https://cealmeida.pages.dev/)
-Site pessoal bilíngue para apresentar projetos, tecnologias e formas de contato.  
-`React` · `Tailwind CSS` · `Node.js`
-
-## Contato
-
-Estou aberto a oportunidades em desenvolvimento full stack, projetos freelance e colaborações.
-
-- [Portfólio](https://cealmeida.pages.dev/)
-- [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/)
-- [E-mail](mailto:carloseduardo.ma89@gmail.com)
-- [WhatsApp](https://wa.me/5524981068281)
-
+</div>
