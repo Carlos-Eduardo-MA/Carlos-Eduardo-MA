@@ -1,45 +1,39 @@
 <div align="center">
 
-## ✦ Da ideia ao deploy ✦
+## Full-stack development
 
-Interfaces que fazem sentido para quem usa. Back-ends que fazem sentido para quem mantém.
+Aplicações web com **React, TypeScript, Node.js e Python**
 
-**Front-end** &nbsp;·&nbsp; **Back-end** &nbsp;·&nbsp; **Dados** &nbsp;·&nbsp; **Deploy**
-
-[Conheça meu portfólio →](https://cealmeida.pages.dev/)
+[Portfólio](https://cealmeida.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/) · [E-mail](mailto:carloseduardo.ma89@gmail.com)
 
 </div>
 
 ---
 
-### 🧭 Meu jeito de desenvolver
+### Tecnologias
 
-Gosto de entender o problema antes de escolher a tecnologia. A partir daí, conecto as partes do produto para entregar experiências completas — com atenção à usabilidade, organização do código e ao que acontece depois que a aplicação entra no ar.
+**Front-end**
 
-| 🎨 Experiência | ⚙️ Engenharia | 🚀 Entrega |
-|:--|:--|:--|
-| Interfaces responsivas e acessíveis, componentes consistentes e fluxos claros. | APIs, autenticação, integrações e persistência de dados pensadas em conjunto. | Aplicações prontas para uso, com versionamento, automação e publicação. |
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite&theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS e Vite" />
 
-### 🛠️ Minha caixa de ferramentas
+**Back-end**
 
-| | |
-|:--|:--|
-| **Interface** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| **Servidor** | Node.js · Express · Python · APIs REST |
-| **Dados** | SQLite · MongoDB |
-| **Fluxo de trabalho** | Git · GitHub Actions · Docker · Vite · Cloudflare Pages |
+<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=light" alt="Node.js, Express e Python" />
 
-### 💬 Em poucas palavras
+**Dados e ferramentas**
 
-**Do componente à API, da modelagem à publicação.**  
-Curioso por natureza, pragmático nas escolhas e sempre buscando deixar o software melhor do que encontrei.
+<img src="https://skillicons.dev/icons?i=sqlite,mongodb,git,github,docker,cloudflare&theme=light" alt="SQLite, MongoDB, Git, GitHub, Docker e Cloudflare" />
+
+### O que desenvolvo
+
+- Interfaces responsivas e aplicações web com React e Next.js.
+- APIs REST, autenticação e integrações com Node.js/Express e Python.
+- Aplicações conectadas a bancos SQLite e MongoDB, do desenvolvimento à publicação.
 
 ---
 
 <div align="center">
 
-Aberto a boas conversas, oportunidades e desafios de desenvolvimento.
-
-[Portfólio](https://cealmeida.pages.dev/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/) &nbsp;·&nbsp; [E-mail](mailto:carloseduardo.ma89@gmail.com)
+[Acesse cealmeida.pages.dev →](https://cealmeida.pages.dev/)
 
 </div>
