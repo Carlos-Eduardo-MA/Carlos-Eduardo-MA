@@ -1,44 +1,65 @@
 <div align="center">
 
-### Desenvolvedor Full Stack | React, Node.js e Python
+# Carlos Eduardo Marcelino de Almeida
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloseduardomarcelino/)
-[![Instagram](https://img.shields.io/badge/Instagram-KaduhAlmeida-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/KaduhAlmeida)
-[![Email](https://img.shields.io/badge/Email-Fale%20comigo-D14836?style=flat&logo=gmail&logoColor=white)](mailto:carloseduardo.ma89@gmail.com)
+### Desenvolvedor Full Stack
+
+Desenvolvimento de aplicações web completas — da experiência no front-end à lógica de negócio, APIs e dados.
+
+[Portfólio](https://cealmeida.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/) · [E-mail](mailto:carloseduardo.ma89@gmail.com) · [WhatsApp](https://wa.me/5524981068281)
 
 </div>
 
 ---
 
-## Skills e ferramentas
+## Sobre
 
-![Painel de skills e ferramentas: JavaScript 90%, HTML/CSS 93%, Python 78%, React 86%, Node.js 84%, Tailwind 85%, MongoDB 74%, Git 88% e Docker 68%.](assets/skills-profile.svg)
+Sou desenvolvedor full stack e gosto de transformar necessidades reais em produtos web claros, úteis e bem construídos. Trabalho em diferentes etapas do desenvolvimento: desenho de interfaces responsivas, implementação de funcionalidades, integração com serviços, persistência de dados e publicação.
 
-Os percentuais seguem minha avaliação pessoal e os níveis configurados no meu site. **Ranks:** S (mestre), A (avançado), B (intermediário) e C (iniciante).
+Tenho experiência com aplicações React e TypeScript, desenvolvimento de APIs com Node.js e Python e projetos que vão de ferramentas web a plataformas com autenticação e gestão de conteúdo. Valorizo código legível, atenção à experiência de uso e soluções adequadas ao problema.
 
-## Linguagens nos meus repositórios
+## Áreas de atuação
 
-![Participação das linguagens por volume de código nos repositórios públicos](assets/language-stats.svg)
+- **Front-end:** interfaces responsivas, componentes reutilizáveis e aplicações React.
+- **Back-end:** APIs REST, autenticação, integrações e processamento de dados.
+- **Aplicações completas:** conexão entre interface, regras de negócio e banco de dados.
+- **Entrega:** versionamento com Git, automação e publicação de aplicações web.
 
-O gráfico considera o volume de código nos meus repositórios públicos, não meu nível de domínio. A GitHub Action atualiza os dados a cada seis horas.
+## Tecnologias
 
-## Projeto em destaque
+**Front-end**  
+React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML · CSS
 
-### KADUH.DEV — Portfólio pessoal
+**Back-end**  
+Node.js · Express · Python · APIs REST · JWT
 
-Meu portfólio pessoal é bilíngue e apresenta meus projetos e tecnologias, com identidade visual inspirada em cyberpunk.
+**Dados e ferramentas**  
+SQLite · MongoDB · Git · GitHub Actions · Docker · Vite · Cloudflare Pages
 
-**Tecnologias:** React, JavaScript, Tailwind CSS, Node.js e MongoDB.
+## Projetos em destaque
 
-[Explorar meus repositórios públicos](https://github.com/Carlos-Eduardo-MA?tab=repositories)
+### [Estante](https://github.com/Carlos-Eduardo-MA/estante_online)
+Biblioteca pessoal para acompanhar leituras, organizar livros por etapa e registrar avaliações e resenhas. Inclui busca de livros pela Open Library.  
+`Next.js` · `TypeScript` · `Tailwind CSS` · `SQLite`
 
-## Vamos conversar?
+### [Imagem Leve](https://github.com/Carlos-Eduardo-MA/imagem_leve)
+Aplicação de otimização de imagens com autenticação, comparação do resultado e exportação em diferentes formatos.  
+`Node.js` · `Express` · `Sharp` · `JWT`
 
-Se quiser falar sobre tecnologia, projetos ou uma oportunidade, entre em contato:
+### [Diário Online](https://github.com/Carlos-Eduardo-MA/diario_online)
+Diário digital com área privada, autenticação e operações para criar, editar e remover registros.  
+`Node.js` · `Express` · `JWT` · `bcrypt`
 
-- **LinkedIn:** [linkedin.com/in/carloseduardomarcelino](https://www.linkedin.com/in/carloseduardomarcelino/)
-- **E-mail:** [carloseduardo.ma89@gmail.com](mailto:carloseduardo.ma89@gmail.com)
-- **Instagram:** [@KaduhAlmeida](https://instagram.com/KaduhAlmeida)
+### [Meu portfólio](https://cealmeida.pages.dev/)
+Site pessoal bilíngue para apresentar projetos, tecnologias e formas de contato.  
+`React` · `Tailwind CSS` · `Node.js`
 
----
+## Contato
+
+Estou aberto a oportunidades em desenvolvimento full stack, projetos freelance e colaborações.
+
+- [Portfólio](https://cealmeida.pages.dev/)
+- [LinkedIn](https://www.linkedin.com/in/carloseduardomarcelino/)
+- [E-mail](mailto:carloseduardo.ma89@gmail.com)
+- [WhatsApp](https://wa.me/5524981068281)
 
